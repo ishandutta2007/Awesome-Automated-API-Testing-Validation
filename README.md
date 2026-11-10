@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Automated-API-Testing-Validation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Automated-API-Testing-Validation?style=flat-square&logo=github" alt="GitHub Stars"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-Automated-API-Testing-Validation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Automated-API-Testing-Validation?style=flat-square&logo=github" alt="GitHub_Stars"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Automated-API-Testing-Validation/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Automated-API-Testing-Validation?style=flat-square&logo=github" alt="GitHub Forks"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Automated-API-Testing-Validation/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square" alt="License"/></a>
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -60,9 +60,9 @@ The global API testing and automated quality validation market is estimated at *
 
 ## 🔓 Open-Source GitHub Frameworks & Tools
 
-*Sorted by GitHub Star count in descending order. Click any star badge to inspect live repository stargazers.*
+*Sorted by GitHub Stars_Count in descending order. Click any Stars_Badge to inspect live repository stargazers.*
 
-| Project 📦 | Stars 🌟 | Primary Languages / Ecosystem 💻 | Key Features & Focus Area 🔍 |
+| Project 📦 | GitHub_Stars 🌟 | Primary Languages / Ecosystem 💻 | Key Features & Focus Area 🔍 |
 | :--- | :--- | :--- | :--- |
 | **[Playwright](https://github.com/microsoft/playwright)** | [![Stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers) | TypeScript, JavaScript, Python, C#, Java | High-velocity end-to-end framework featuring built-in, lightning-fast `APIRequestContext` for unified web and REST testing. |
 | **[Cypress](https://github.com/cypress-io/cypress)** | [![Stars](https://img.shields.io/github/stars/cypress-io/cypress?style=social&color=white)](https://github.com/cypress-io/cypress/stargazers) | JavaScript, TypeScript | Complete testing ecosystem with first-class `cy.request()` integration, visual command logs, and automatic waiting. |
